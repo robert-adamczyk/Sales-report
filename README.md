@@ -12,10 +12,12 @@ Simple interactive visualization in Power Bi program with show sales report from
 ## Screenshots:
 
 ###Example visualization:
+
 <a href="https://ibb.co/cFwwmgr"><img src="https://i.ibb.co/LtrrGkZ/Bicycle-Shop-1.png" alt="Bicycle-Shop-1" border="0"></a>
 <a href="https://ibb.co/H7bfQ4s"><img src="https://i.ibb.co/NxJdzCP/Bicycle-Shop-2.png" alt="Bicycle-Shop-2" border="0"></a>
 
 ###Relationship tree
+
 <a href="https://ibb.co/k3P6VYq"><img src="https://i.ibb.co/8zQ4nFP/Bicycle-Shop-3.png" alt="Bicycle-Shop-3" border="0"></a>
 
 ## Download:
